@@ -6,7 +6,7 @@ Know Me- 👋 Hi, I’m @Harshilkhopkar45
 - 📫 How to reach me: Gmail: harshilkhopkar05@gmail.com   LinkedIn: linkedin.com/in/harshil-khopkar-45b46b2a9
 - 🧩 Hobbies: When I’m not coding, I’m exploring new cars, keeping up with tech trends, reading novels, and enjoying sports like Formula 1, cricket, and chess. I also love watching movies and series.
 - ⚡ Fun fact: I’m passionate about achieving financial success, working with leading tech companies, and building my dream car collection along the way!
-- 🧑‍💻 Favourite programming language: I enjoy coding in Python , C  and C++ programming, but I’m also exploring other languages and frameworks.
+- 🧑‍💻 Favourite programming language: I enjoy coding in Python, SQL , C  and C++ programming, but I’m also exploring other languages and frameworks.
 - 💡 Personal Quote: “Listen to everyone, because nobody knows everything, and everyone knows something.”
 <!---
 Harshilkhopkar45/Harshilkhopkar45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
